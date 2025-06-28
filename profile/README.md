@@ -15,6 +15,7 @@ Conductor solves this by offloading state management, failure handling, and othe
 Conductor lets you write stateless code in any programming language and framework of your choice, and orchestrate them using workflows that are defined in Conductor.
 
 Conductor workflows are simple JSON based code that follows the same structure as a program with sub-routines (sub-workflows), branches, loops and parallel execution.
+
 <img alt="Conductor workflow with a branch" height="300" src="https://raw.githubusercontent.com/conductor-oss/.github/refs/heads/main/workflow_branch.png" width="300"/>
 
 Workflow tasks can either be external microservices (exposed over HTTP or gRPC), or service workers built using lightweight Conductor SDKs in your preferred language.
