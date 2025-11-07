@@ -68,14 +68,16 @@ Conductor is widely adopted across multiple industries and used for varied use c
  
 ## Conductor SDKs
 [![Conductor Java SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=java-sdk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/conductor-oss/java-sdk#gh-light-mode-only)
-[![Conductor java SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=java-sdk&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/conductor-oss/java-sdk#gh-dark-mode-only)
+[![Conductor Java SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=java-sdk&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/conductor-oss/java-sdk#gh-dark-mode-only)
 [![Conductor Go SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=go-sdk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/conductor-oss/go-sdk#gh-light-mode-only)
 [![Conductor Go SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=go-sdk&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/conductor-oss/go-sdk#gh-dark-mode-only)
 [![Conductor Python SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=python-sdk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/conductor-oss/python-sdk#gh-light-mode-only)
 [![Conductor Python SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=python-sdk&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/conductor-oss/python-sdk#gh-dark-mode-only)
-[![Conductor Typescript SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=csharp-sdk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/conductor-oss/pycsharpthon-sdk#gh-light-mode-only)
-[![Conductor Typescript SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=csharp-sdk&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/conductor-oss/csharp-sdk#gh-dark-mode-only)
-[![Conductor .NET/CSharp SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=csharp-sdk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/conductor-oss/pycsharpthon-sdk#gh-light-mode-only)
+[![Conductor JavaScript SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=javascript-sdk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/conductor-oss/javascript-sdk#gh-light-mode-only)
+[![Conductor JavaScript SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=javascript-sdk&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/conductor-oss/javascript-sdk#gh-dark-mode-only)
+[![Conductor C# SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=csharp-sdk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/conductor-oss/csharp-sdk#gh-light-mode-only)
+[![Conductor C# SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=csharp-sdk&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/conductor-oss/csharp-sdk#gh-dark-mode-only)
+[![Conductor Clojure SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=clojure-sdk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/conductor-oss/clojure-sdk#gh-light-mode-only)
 [![Conductor Clojure SDK](https://github-readme-stats.vercel.app/api/pin/?username=conductor-oss&repo=clojure-sdk&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/conductor-oss/clojure-sdk#gh-dark-mode-only)
 
 
