@@ -27,18 +27,25 @@ Thousands of companies rely on Conductor as a bedrock of their reliable applicat
 Some notable names include Netflix where a number of teams use Conductor, Tesla, Swiggy, Atlassian, GE Healthcare.
 Companies choose Conductor for its open-source nature, ease of use, lightweight SDKs, and a healthy, active community.
 
-## Getting Started with Conductor
+## Get Running in 60 Seconds
 
-1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="15" height="15">&nbsp;[Spring-boot and Conductor](https://github.com/conductor-oss/conductor-example-springboot3)
-2. Python + Conductor
-3. Building with .NET + Conductor
-4. Developing in Clojure with Conductor
-5. Distributed Applications in Go
-6. Typescript + Conductor
+      npm install -g @conductor-oss/conductor-cli
+      conductor server start
 
-### More
-1. Workflows with Human in the loop
-2. Agentic workflow : Autonomous Interview Agent
+  Open [http://localhost:8080](http://localhost:8080) — your server is running with the built-in UI.
+
+  **Run your first workflow:**
+
+      # Create a workflow that calls an API and parses the response — no workers needed
+      curl -s https://raw.githubusercontent.com/conductor-oss/conductor/main/docs/quickstart/workflow.json -o workflow.json
+      conductor workflow create workflow.json
+      conductor workflow start -w hello_workflow --sync
+
+  <details><summary>Prefer Docker?</summary>
+
+      docker run -p 8080:8080 conductoross/conductor:latest
+
+  </details>
 
 
 ## Featured Use cases
