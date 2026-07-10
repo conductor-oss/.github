@@ -65,7 +65,7 @@ Conductor is widely adopted across multiple industries and used for varied use c
 - [Conductor OSS](https://conductor-oss.org/)
 - [Getting Started with Conductor](https://www.youtube.com/watch?v=4azDdDlx27M) (video)
 - [Library of Sample applications](https://github.com/conductor-oss/awesome-conductor-apps)
-- [Slack Community](https://join.slack.com/t/orkes-conductor/shared_invite/zt-2vdbx239s-Eacdyqya9giNLHfrCavfaA)
+- [Slack Community](https://orkes-conductor.slack.com/join/shared_invite/zt-3dpcskdyd-W895bJDm8psAV7viYG3jFA)
 - [Documentation](https://orkes.io/content)
 
 ## Community
