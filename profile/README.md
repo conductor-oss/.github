@@ -70,7 +70,7 @@ Conductor is widely adopted across multiple industries and used for varied use c
 
 ## Community
 [![Orkes on YouTube](https://img.shields.io/badge/orkes-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@orkesio)
-[![Slack Community](https://img.shields.io/badge/conductoross-blue?logo=slack)](https://join.slack.com/t/orkes-conductor/shared_invite/zt-2vdbx239s-Eacdyqya9giNLHfrCavfaA)
+[![Slack Community](https://img.shields.io/badge/conductoross-blue?logo=slack)](https://orkes-conductor.slack.com/join/shared_invite/zt-3dpcskdyd-W895bJDm8psAV7viYG3jFA)
 [![@orkesio on X](https://img.shields.io/badge/%40orkes-purple?logo=x)](https://x.com/orkesio)
  
 ## Conductor SDKs
