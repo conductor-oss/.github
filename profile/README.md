@@ -8,19 +8,15 @@ Conductor lets you build applications with:
 * Agentic workflows by orchestrating language models
 * Durable code execution
 
-## Building and scaling applications with Conductor
-Maintaining state (e.g. order processing, payment workflow, customer onboarding) in an application requires maintaining state across different services.
-This becomes especially challenging when you need to guarantee process completion despite temporary or permanent service failures. 
-Conductor solves this by offloading state management, failure handling, and other resiliency concerns to the Conductor server
-Conductor lets you write stateless code in any programming language and framework of your choice, and orchestrate them using workflows that are defined in Conductor.
+## Building and Scaling Applications with Conductor
 
-Conductor workflows are simple JSON based code that follows the same structure as a program with sub-routines (sub-workflows), branches, loops and parallel execution.
+Maintaining state across distributed services — order processing, payment workflows, customer onboarding — is hard, and guaranteeing completion despite service failures makes it harder.
 
-<img alt="Conductor workflow with a branch" height="300" src="https://raw.githubusercontent.com/conductor-oss/.github/refs/heads/main/workflow_branch.png" width="300"/>
+Conductor offloads state management, failure handling, and resiliency to the server so your application code stays stateless. Write in any language and framework, then orchestrate with simple JSON-based workflows.
 
-Workflow tasks can either be external microservices (exposed over HTTP or gRPC), or service workers built using lightweight Conductor SDKs in your preferred language.
+**Workflows** support sub-workflows, branches, loops, and parallel execution — the same constructs as any program, but durable by default.
 
-<img alt="Conductor workflow with a branch" height="300" src="https://github.com/conductor-oss/.github/blob/main/workflow_tasks.png?raw=true" width="300"/>
+**Tasks** can be external microservices (HTTP or gRPC) or lightweight worker processes built with Conductor SDKs in your preferred language.
  
 ## Conductor Users
 Thousands of companies rely on Conductor as a bedrock of their reliable application foundation.
